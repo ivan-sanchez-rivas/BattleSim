@@ -13,19 +13,21 @@ namespace BattleSim
         {
             _vida = vida;
         }
-        public void RandomVida()
+        public int RandomVida()
         {
             int vidaSubida;
             Random vidaR = new Random();
             vidaSubida = vidaR.Next(0, 4);
-            if (_vida == 20)
+            if (_vida == 40)
             {
                 //Vida llena
             }
             else
             {
                 _vida = vidaSubida + _vida;
+                return vidaSubida;
             }
+            return _vida;
             
         }
         public int RandomAtaque()

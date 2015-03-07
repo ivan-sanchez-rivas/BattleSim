@@ -39,6 +39,7 @@
             this.btn_atacar = new System.Windows.Forms.Button();
             this.btn_subirVida = new System.Windows.Forms.Button();
             this.tmr_battletimer = new System.Windows.Forms.Timer(this.components);
+            this.lbl_infoAtaquePC = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pbx_enemigo)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pbx_pc)).BeginInit();
             this.SuspendLayout();
@@ -119,14 +120,24 @@
             // 
             // tmr_battletimer
             // 
-            this.tmr_battletimer.Interval = 1000;
+            this.tmr_battletimer.Interval = 1500;
             this.tmr_battletimer.Tick += new System.EventHandler(this.tmr_battletimer_Tick);
+            // 
+            // lbl_infoAtaquePC
+            // 
+            this.lbl_infoAtaquePC.AutoSize = true;
+            this.lbl_infoAtaquePC.Location = new System.Drawing.Point(231, 25);
+            this.lbl_infoAtaquePC.Name = "lbl_infoAtaquePC";
+            this.lbl_infoAtaquePC.Size = new System.Drawing.Size(35, 13);
+            this.lbl_infoAtaquePC.TabIndex = 9;
+            this.lbl_infoAtaquePC.Text = "label1";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(521, 319);
+            this.Controls.Add(this.lbl_infoAtaquePC);
             this.Controls.Add(this.btn_subirVida);
             this.Controls.Add(this.btn_atacar);
             this.Controls.Add(this.pbx_pc);
@@ -155,6 +166,7 @@
         private System.Windows.Forms.Button btn_atacar;
         private System.Windows.Forms.Button btn_subirVida;
         private System.Windows.Forms.Timer tmr_battletimer;
+        private System.Windows.Forms.Label lbl_infoAtaquePC;
     }
 }
 

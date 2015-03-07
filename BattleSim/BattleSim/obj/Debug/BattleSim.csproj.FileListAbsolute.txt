@@ -7,3 +7,12 @@ c:\users\ivan\documents\visual studio 2013\Projects\BattleSim\BattleSim\obj\Debu
 c:\users\ivan\documents\visual studio 2013\Projects\BattleSim\BattleSim\obj\Debug\BattleSim.csproj.GenerateResource.Cache
 c:\users\ivan\documents\visual studio 2013\Projects\BattleSim\BattleSim\obj\Debug\BattleSim.exe
 c:\users\ivan\documents\visual studio 2013\Projects\BattleSim\BattleSim\obj\Debug\BattleSim.pdb
+C:\Users\Ivan\Documents\GitHub\BattleSim\BattleSim\BattleSim\bin\Debug\BattleSim.exe.config
+C:\Users\Ivan\Documents\GitHub\BattleSim\BattleSim\BattleSim\obj\Debug\BattleSim.exe
+C:\Users\Ivan\Documents\GitHub\BattleSim\BattleSim\BattleSim\obj\Debug\BattleSim.pdb
+C:\Users\Ivan\Documents\GitHub\BattleSim\BattleSim\BattleSim\bin\Debug\BattleSim.exe
+C:\Users\Ivan\Documents\GitHub\BattleSim\BattleSim\BattleSim\bin\Debug\BattleSim.pdb
+C:\Users\Ivan\Documents\GitHub\BattleSim\BattleSim\BattleSim\obj\Debug\BattleSim.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\GitHub\BattleSim\BattleSim\BattleSim\obj\Debug\BattleSim.Form1.resources
+C:\Users\Ivan\Documents\GitHub\BattleSim\BattleSim\BattleSim\obj\Debug\BattleSim.Properties.Resources.resources
+C:\Users\Ivan\Documents\GitHub\BattleSim\BattleSim\BattleSim\obj\Debug\BattleSim.csproj.GenerateResource.Cache
